@@ -37,5 +37,7 @@ PLUGIN_PATH = './plugins'
 PLUGINS = ['ipynb.markup']
 
 OUTPUT_PATH = 'docs/'
+
+THEME = 'themes/pelican-clean-blog'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
